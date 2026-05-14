@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "Bash(git commit -m 'Добавлены печатные правила Game of Zawert для переноса на бумагу *)"
+    ]
+  }
+}
