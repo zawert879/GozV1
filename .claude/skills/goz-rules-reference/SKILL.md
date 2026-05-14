@@ -1,5 +1,5 @@
 ---
-name: rules-reference
+name: goz-rules-reference
 description: |
   Справка по всем правилам Game of Zawert.
   Ссылки на 8 разделов GOZ_Framework и ключевые правила.

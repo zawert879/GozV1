@@ -1,5 +1,5 @@
 ---
-name: combat-calculator
+name: goz-combat-calculator
 description: |
   Калькулятор для боевых расчётов в Game of Zawert.
   Инициатива, урон, HP, ОП, целевые числа, формулы и справочные данные.

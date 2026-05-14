@@ -1,5 +1,5 @@
 ---
-name: generate-character
+name: goz-generate-character
 description: |
   Создать сбалансированного персонажа Game of Zawert по концепции.
   Распределяет ОП между характеристиками, выбирает умения, рассчитывает параметры.

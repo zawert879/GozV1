@@ -1,5 +1,5 @@
 ---
-name: generate-enemy
+name: goz-generate-enemy
 description: |
   Создать врага или НИП для Game of Zawert с правильным балансом.
   Уровни от моба до легендарного врага. Учитывает баланс для группы.

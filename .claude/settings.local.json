@@ -5,7 +5,12 @@
       "Bash(git commit -m 'Добавлены печатные правила Game of Zawert для переноса на бумагу *)",
       "Bash(git commit -m 'Добавлены пользовательские skills для Game of Zawert в .claude/skills/ *)",
       "Bash(git commit *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(mv generate-character *)",
+      "Bash(mv generate-enemy *)",
+      "Bash(mv generate-equipment *)",
+      "Bash(mv combat-calculator *)",
+      "Bash(mv rules-reference *)"
     ]
   }
 }
