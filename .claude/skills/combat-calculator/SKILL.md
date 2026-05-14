@@ -1,6 +1,8 @@
 ---
 name: combat-calculator
-description: Калькулятор для боевых расчётов в Game of Zawert. Инициатива, урон, HP, ОП, целевые числа.
+description: |
+  Калькулятор для боевых расчётов в Game of Zawert.
+  Инициатива, урон, HP, ОП, целевые числа, формулы и справочные данные.
 ---
 
 # Combat Calculator

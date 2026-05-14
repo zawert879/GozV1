@@ -1,6 +1,8 @@
 ---
 name: rules-reference
-description: Справка по всем правилам Game of Zawert. Ссылки на разделы GOZ_Framework и ключевые правила.
+description: |
+  Справка по всем правилам Game of Zawert.
+  Ссылки на 8 разделов GOZ_Framework и ключевые правила.
 ---
 
 # Rules Reference
